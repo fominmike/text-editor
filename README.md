@@ -1,5 +1,22 @@
 # text-editor
 
+
+## License:
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+
+
+## Table of Contents 
+- [Description](#description)
+- [License](#license)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+
+
+## Description:
+This is a text editor application created in the UW Coding Bootcamp. The text editor runs in a browser and can be installed on a computer. It utilizes webpack, service-worker, express, javascript, css, and html.
+
+
+
 ## User Story
 
 AS A developer
